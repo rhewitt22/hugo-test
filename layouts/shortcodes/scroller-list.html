@@ -1,0 +1,9 @@
+{{ $tag := lower (.Get "tag") | urlize }}
+{{ $section := .Get "section" }}
+{{ $pages := where (index .Site.Taxonomies.tags $tag) "Page.Section" $section }}
+
+<ol>
+{{ range $pages }}
+  <li>{{ .Page.Date }}: {{ .Page.Title }}</li>
+{{ end }}
+</ol>

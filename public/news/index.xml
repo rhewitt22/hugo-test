@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on My New Hugo Site</title>
+    <link>https://example.org/news/</link>
+    <description>Recent content in News on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.org/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Manatee Reclassified from Endangered to Threatened as Habitat Improves and Population Expands – Existing Federal Protections Remain in Place</title>
+      <link>https://example.org/news/manatee-reclassified-from-endangered-to-threatened-as-habitat-improves-and-population-expands-existing-federal-protections-remain-in-place/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/news/manatee-reclassified-from-endangered-to-threatened-as-habitat-improves-and-population-expands-existing-federal-protections-remain-in-place/</guid>
+      <description>Read the release in Spanish.
+On the heels of Manatee Appreciation Day, the U.S. Department of the Interior announced the downlisting of the West Indian manatee from endangered to threatened. Notable increases in manatee populations and improvements in its habitat allowed the U.S. Fish and Wildlife Service (FWS) to change the species’ status under the Endangered Species Act (ESA).
+The downlisting comes after diverse conservation efforts and collaborations by Florida and other manatee states, the Commonwealth of Puerto Rico, Caribbean nations, public and private organizations and citizens, there have been notable increases in manatee populations and improvements in its habitat.</description>
+    </item>
+    
+    <item>
+      <title>New Report Assesses the Impacts of Emerging Threats on Gulf Coast Species and Ecosystems</title>
+      <link>https://example.org/news/new-report-assesses-the-impacts-of-emerging-threats-on-gulf-coast-species-and-ecosystems/</link>
+      <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/news/new-report-assesses-the-impacts-of-emerging-threats-on-gulf-coast-species-and-ecosystems/</guid>
+      <description>The U.S. Fish and Wildlife Service today released its Gulf Coast Vulnerability Assessment (GCVA), a comprehensive report that evaluates the effects of climate change, sea level rise and urbanization on four Gulf Coast ecosystems and 11 species that depend on them. The ecosystems are mangrove, oyster reef, tidal emergent marsh and barrier islands. The species are roseate spoonbill, blue crab, clapper rail, mottled duck, spotted seatrout, eastern oyster, American oystercatcher, red drum, black skimmer, Kemp’s ridley sea turtle and Wilson’s plover.</description>
+    </item>
+    
+    <item>
+      <title>Using Sound Science, the Service Addresses Urgent Habitat Needs for Birds and Other Wildlife Along the Gulf Coast</title>
+      <link>https://example.org/news/using-sound-science-service-addresses-urgent-habitat-needs-for-birds-and-other-wildlife-along-the-gulf-coast/</link>
+      <pubDate>Thu, 08 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/news/using-sound-science-service-addresses-urgent-habitat-needs-for-birds-and-other-wildlife-along-the-gulf-coast/</guid>
+      <description>The U.S. Fish and Wildlife Service is coordinating efforts along the Gulf Coast to safeguard wildlife such as shorebirds, waterfowl, marsh birds, sea birds, and sea turtles from the effects of oil. Working closely with state, federal and non-government partners, the Service is identifying the most pressing habitat needs of these at-risk species, recommending strategic habitat conservation activities to address those needs, and helping to implement projects along the coast from Florida to Texas.</description>
+    </item>
+    
+    <item>
+      <title>Salazar Unveils Special Edition Duck Stamp Cachet Public Can Purchase to Support Gulf Wildlife Refuges</title>
+      <link>https://example.org/news/salazar-unveils-special-edition-duck-stamp-cachet-public-can-purchase-to-support-gulf-wildlife-refuges/</link>
+      <pubDate>Fri, 02 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/news/salazar-unveils-special-edition-duck-stamp-cachet-public-can-purchase-to-support-gulf-wildlife-refuges/</guid>
+      <description>MEMPHIS, TN &amp;mdash; Secretary of the Interior Ken Salazar today unveiled a special edition Federal Duck Stamp envelope, or cachet, which hunters, birding enthusiasts, stamp collectors and other conservationists, can purchase for $25 &amp;ndash; or $10 more than the cost of a regular Duck Stamp &amp;mdash; to help conservation efforts in the Gulf of Mexico. The funds will be used to acquire wetlands for inclusion in national wildlife refuges along the Gulf Coast.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.org/news/news-mission-links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/news/news-mission-links/</guid>
+      <description>The mission of the U.S. Fish and Wildlife Service is working with others to conserve, protect, and enhance fish, wildlife, plants, and their habitats for the continuing benefit of the American people. For more information on our work and the people who can make it happen, visit fws.gov. Connect with the Service on Facebook, follow our tweets, watch the YouTube Channel and download photos from Flickr.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.org/news/scroller-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/news/scroller-list/</guid>
+      <description>{{ $section := .Get &#34;section&#34; }} {{ $pages := where (index .Site.Taxonomies.tags $tag) &#34;Page.Section&#34; $section }}  {{ range $pages }} {{ .Page.Date }} {{ end }}  </description>
+    </item>
+    
+  </channel>
+</rss>

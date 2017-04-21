@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Endangered Species Act on My New Hugo Site</title>
+    <link>https://example.org/tags/endangered-species-act/</link>
+    <description>Recent content in Endangered Species Act on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.org/tags/endangered-species-act/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Manatee Reclassified from Endangered to Threatened as Habitat Improves and Population Expands – Existing Federal Protections Remain in Place</title>
+      <link>https://example.org/news/manatee-reclassified-from-endangered-to-threatened-as-habitat-improves-and-population-expands-existing-federal-protections-remain-in-place/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/news/manatee-reclassified-from-endangered-to-threatened-as-habitat-improves-and-population-expands-existing-federal-protections-remain-in-place/</guid>
+      <description>Read the release in Spanish.
+On the heels of Manatee Appreciation Day, the U.S. Department of the Interior announced the downlisting of the West Indian manatee from endangered to threatened. Notable increases in manatee populations and improvements in its habitat allowed the U.S. Fish and Wildlife Service (FWS) to change the species’ status under the Endangered Species Act (ESA).
+The downlisting comes after diverse conservation efforts and collaborations by Florida and other manatee states, the Commonwealth of Puerto Rico, Caribbean nations, public and private organizations and citizens, there have been notable increases in manatee populations and improvements in its habitat.</description>
+    </item>
+    
+  </channel>
+</rss>

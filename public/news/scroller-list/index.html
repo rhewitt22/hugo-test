@@ -1,0 +1,9 @@
+<!DOCTYPE html><html lang="en-US"><head></head><body id="content"><div class="main" role="main"><h1 class="page-title"></h1>{{ $section := .Get "section" }}
+{{ $pages := where (index .Site.Taxonomies.tags $tag) "Page.Section" $section }}
+
+<ol>
+{{ range $pages }}
+  <li>{{ .Page.Date }}</li>
+{{ end }}
+</ol>
+</div></body></html>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My New Hugo Site</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alabama</title>
+      <link>https://example.org/tags/alabama/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/alabama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arkansas</title>
+      <link>https://example.org/tags/arkansas/</link>
+      <pubDate>Fri, 02 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/arkansas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duck Stamp</title>
+      <link>https://example.org/tags/duck-stamp/</link>
+      <pubDate>Fri, 02 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/duck-stamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Endangered Species Act</title>
+      <link>https://example.org/tags/endangered-species-act/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/endangered-species-act/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florida</title>
+      <link>https://example.org/tags/florida/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/florida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Georgia</title>
+      <link>https://example.org/tags/georgia/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/georgia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gulf</title>
+      <link>https://example.org/tags/gulf/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/gulf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kemps Ridley Sea Turtle</title>
+      <link>https://example.org/tags/kemps-ridley-sea-turtle/</link>
+      <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/kemps-ridley-sea-turtle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lafayette</title>
+      <link>https://example.org/tags/lafayette/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/lafayette/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Louisiana</title>
+      <link>https://example.org/tags/louisiana/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/louisiana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manatee</title>
+      <link>https://example.org/tags/manatee/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/manatee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mississippi</title>
+      <link>https://example.org/tags/mississippi/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/mississippi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National Wildlife Refuge System</title>
+      <link>https://example.org/tags/national-wildlife-refuge-system/</link>
+      <pubDate>Fri, 02 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/national-wildlife-refuge-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Puerto Rico</title>
+      <link>https://example.org/tags/puerto-rico/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/puerto-rico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raleigh</title>
+      <link>https://example.org/tags/raleigh/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/raleigh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restoration</title>
+      <link>https://example.org/tags/restoration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/restoration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>South Carolina</title>
+      <link>https://example.org/tags/south-carolina/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/south-carolina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Us Virgin Islands</title>
+      <link>https://example.org/tags/us-virgin-islands/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/us-virgin-islands/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

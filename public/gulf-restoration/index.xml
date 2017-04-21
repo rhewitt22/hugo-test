@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gulf-restorations on My New Hugo Site</title>
+    <link>https://example.org/gulf-restoration/</link>
+    <description>Recent content in Gulf-restorations on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://example.org/gulf-restoration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gulf Restoration</title>
+      <link>https://example.org/gulf-restoration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/gulf-restoration/</guid>
+      <description>Restoring the Gulf of Mexico and its Wild Inhabitants The Gulf of Mexico is critically important to the health and vitality of our nation&amp;rsquo;s natural and economic resources. Over the last century, however, the Gulf&amp;rsquo;s environment has deteriorated significantly due to factors such as:
+ Climate Change Sea-level rise Loss of critical wetlands and coastal habitats Decreasing water quality and quantity Invasive species  Natural disasters like hurricanes, and man-made disasters like oil spills, exacerbate the damage.</description>
+    </item>
+    
+  </channel>
+</rss>
